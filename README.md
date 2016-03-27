@@ -1,6 +1,6 @@
 # Exploratory_Data_Analysis_Proj1
 ## Please note:
-In order to successfuly run the plot1, 2, 3, and 4 .R codes, you first of all must run the load/read_.txt script which
+In order to successfuly run the plot1, 2, 3, and 4 .R scripts, you first of all must run the read.R script which
 loads the household_power_consumption.txt file from the downloaded PWR_Consumption.zip (in this case unzipped), in R
 
 ##Instructions
