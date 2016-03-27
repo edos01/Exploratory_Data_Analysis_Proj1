@@ -1,5 +1,9 @@
 # Exploratory_Data_Analysis_Proj1
+## Please note:
+In order to successfuly run the plot1, 2, 3, and 4 .R codes, you first of all must run the load/read_.txt script which
+loads the household_power_consumption.txt file from the downloaded PWR_Consumption.zip (in this case unzipped), in R
 
+##Instructions
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
 - Dataset: Electric power consumption [20Mb]
